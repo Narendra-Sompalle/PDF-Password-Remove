@@ -1,0 +1,2 @@
+libqpdf-dev
+qpdf
